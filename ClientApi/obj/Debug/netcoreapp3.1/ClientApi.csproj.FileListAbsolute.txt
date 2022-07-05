@@ -1,0 +1,14 @@
+C:\Users\Utente\Desktop\projects\ClientApi\ClientApi\bin\Debug\netcoreapp3.1\ClientApi.exe
+C:\Users\Utente\Desktop\projects\ClientApi\ClientApi\bin\Debug\netcoreapp3.1\ClientApi.deps.json
+C:\Users\Utente\Desktop\projects\ClientApi\ClientApi\bin\Debug\netcoreapp3.1\ClientApi.runtimeconfig.json
+C:\Users\Utente\Desktop\projects\ClientApi\ClientApi\bin\Debug\netcoreapp3.1\ClientApi.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\projects\ClientApi\ClientApi\bin\Debug\netcoreapp3.1\ClientApi.dll
+C:\Users\Utente\Desktop\projects\ClientApi\ClientApi\bin\Debug\netcoreapp3.1\ClientApi.pdb
+C:\Users\Utente\Desktop\projects\ClientApi\ClientApi\obj\Debug\netcoreapp3.1\ClientApi.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\projects\ClientApi\ClientApi\obj\Debug\netcoreapp3.1\ClientApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\projects\ClientApi\ClientApi\obj\Debug\netcoreapp3.1\ClientApi.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\projects\ClientApi\ClientApi\obj\Debug\netcoreapp3.1\ClientApi.AssemblyInfo.cs
+C:\Users\Utente\Desktop\projects\ClientApi\ClientApi\obj\Debug\netcoreapp3.1\ClientApi.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\projects\ClientApi\ClientApi\obj\Debug\netcoreapp3.1\ClientApi.dll
+C:\Users\Utente\Desktop\projects\ClientApi\ClientApi\obj\Debug\netcoreapp3.1\ClientApi.pdb
+C:\Users\Utente\Desktop\projects\ClientApi\ClientApi\obj\Debug\netcoreapp3.1\ClientApi.genruntimeconfig.cache
